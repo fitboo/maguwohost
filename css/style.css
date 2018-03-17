@@ -1,0 +1,96 @@
+/* sprite 1x */
+.sprite {
+  background-image: url(spritesheet.png);
+  background-repeat: no-repeat;
+  display: block;
+}
+.sprite.sprite-ico-arrow--down_1x {
+  background-position: -3px -3px;
+  width: 15px;
+  height: 8px;
+}
+.sprite.sprite-ico-features--1_1x {
+  background-position: -3px -17px;
+  width: 128px;
+  height: 128px;
+}
+.sprite.sprite-ico-features--2_1x {
+  background-position: -3px -151px;
+  width: 128px;
+  height: 128px;
+}
+.sprite.sprite-ico-features--3_1x {
+  background-position: -3px -285px;
+  width: 128px;
+  height: 128px;
+}
+.sprite.sprite-ico-features--4_1x {
+  background-position: -3px -419px;
+  width: 128px;
+  height: 128px;
+}
+.sprite.sprite-ico-map-marker {
+  background-position: -3px -553px;
+  width: 33px;
+  height: 47px;
+}
+.sprite.sprite-ico-social {
+  background-position: -3px -606px;
+  width: 89px;
+  height: 18px;
+}
+.sprite.sprite-ico-webhost {
+  background-position: -3px -630px;
+  width: 168px;
+  height: 169px;
+}
+/* sprite 2x */
+.sprite {
+  background-image: url(spritesheet.png);
+  background-repeat: no-repeat;
+  display: block;
+}
+.sprite.sprite-ico-arrow--down_2x {
+  background-position: -5px -5px;
+  width: 30px;
+  height: 16px;
+}
+.sprite.sprite-ico-features--1_2x {
+  background-position: -5px -31px;
+  width: 128px;
+  height: 128px;
+}
+.sprite.sprite-ico-features--2_2x {
+  background-position: -5px -169px;
+  width: 128px;
+  height: 128px;
+}
+.sprite.sprite-ico-features--3_2x {
+  background-position: -5px -307px;
+  width: 128px;
+  height: 128px;
+}
+.sprite.sprite-ico-features--4_2x {
+  background-position: -5px -445px;
+  width: 128px;
+  height: 128px;
+}
+.sprite.sprite-ico-map-marker_2x {
+  background-position: -5px -583px;
+  width: 66px;
+  height: 94px;
+}
+.sprite.sprite-ico-social_2x {
+  background-position: -5px -687px;
+  width: 178px;
+  height: 36px;
+}
+.sprite.sprite-ico-webhost_2x {
+  background-position: -5px -733px;
+  width: 336px;
+  height: 338px;
+}
+/* base */
+body {
+  font-family: "Raleway", "Arial", sans-serif;
+}
